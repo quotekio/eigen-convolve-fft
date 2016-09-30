@@ -1,7 +1,7 @@
 #include "convolve.h"
 
 #include <algorithm>
-#include <eigen/unsupported/Eigen/FFT>
+#include <unsupported/Eigen/FFT>
 
 std::vector<float> convolve(std::vector<float>& r1, std::vector<float>& r2) {
 
