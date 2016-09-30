@@ -1,3 +1,7 @@
+/* Copyright (c) 2016, Clément Gamé
+This code is licensed under the GNU LESSER GENERAL PUBLIC LICENSE.
+*/
+
 #ifndef CONVOLVE_H
 #define CONVOLVE_H
 
